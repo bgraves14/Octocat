@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words 
+The "upstream" is the primary branch on the original repository and is where most changes will come from. Which then makes the branch or for you are working on the "downstream". 
