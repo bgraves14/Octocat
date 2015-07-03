@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words.
+A "clone" is a copy of a repository that is on your computer that keeps in contact with the repo that is on a server. It allows your to edit files and make changes or the original repo also allowing you to push your changes to the online repo to keep them synced. 
