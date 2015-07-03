@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A "branch" is a bit like a parallel version of a repository which allows you to make changes and work freely without damaging or disrupting your primary repo. You can then merge your branch back together with the master branch once you've made your desired changes.
